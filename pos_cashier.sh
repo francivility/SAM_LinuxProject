@@ -302,15 +302,15 @@ while true; do
         0)
             while true; do
                 custom_menu "SIGNATURE & HOT DRINKS" \
-                    "Cafe Filipino (Signature Black Rice Coffee) - PHP 95" \
-                    "Barley Matcha                              - PHP 110" \
-                    "Sweet Ube (With Pineapple & Coconut Milk)   - PHP 115" \
-                    "Nectar Juice                               - PHP 90" \
-                    "Spanish Latte                              - PHP 110" \
-                    "Cafe Mocha                                 - PHP 115" \
-                    "Caramel Macchiato                          - PHP 120" \
-                    "Hot Choco                                  - PHP 95" \
-                    "Freshly Brewed Black Rice Coffee           - PHP 85" \
+                    "Cafe Filipino (Signature Black Rice Coffee)  - PHP 95" \
+                    "Barley Matcha                                - PHP 110" \
+                    "Sweet Ube (With Pineapple & Coconut Milk)    - PHP 115" \
+                    "Nectar Juice                                 - PHP 90" \
+                    "Spanish Latte                                - PHP 110" \
+                    "Cafe Mocha                                   - PHP 115" \
+                    "Caramel Macchiato                            - PHP 120" \
+                    "Hot Choco                                    - PHP 95" \
+                    "Freshly Brewed Black Rice Coffee             - PHP 85" \
                     "Back to Main Menu"
                 
                 SUB_CHOICE=$?
@@ -341,7 +341,7 @@ while true; do
                     "Cookies & Cream Frappe                     - PHP 140" \
                     "Cheesecake Frappe                          - PHP 145" \
                     "Strawberry Frappe                          - PHP 140" \
-                    "Taro Frappe                               - PHP 135" \
+                    "Taro Frappe                                - PHP 135" \
                     "Back to Main Menu"
                 
                 SUB_CHOICE=$?
