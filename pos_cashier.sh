@@ -373,7 +373,7 @@ while true; do
                     "Honey Peach Mango Juice                    - PHP 110" \
                     "Passion Fruit Lychee Juice                 - PHP 110" \
                     "Green Apple Kiwi Juice                     - PHP 110" \
-                    "Berry Melon Juice                         - PHP 110" \
+                    "Berry Melon Juice                          - PHP 110" \
                     "Back to Main Menu"
                 
                 SUB_CHOICE=$?
@@ -396,14 +396,14 @@ while true; do
         3)
             while true; do
                 custom_menu "SNACKS & LIGHT BITES" \
-                    "Waffles (Plain)                            - PHP 90" \
-                    "Waffles (Oreo/Caramel/Blueberry/Strawberry)- PHP 110" \
-                    "Pancakes (Plain)                           - PHP 85" \
-                    "Pancakes (Oreo/Caramel/Blueberry/Strawberry)- PHP 105" \
-                    "French Fries (Regular)                     - PHP 80" \
-                    "French Fries (Cheese/BBQ/Sour Cream)     - PHP 95" \
-                    "Nachos (Regular)                           - PHP 120" \
-                    "Nachos (Premium Cheese & Meat)             - PHP 150" \
+                    "Waffles (Plain)                               - PHP 90" \
+                    "Waffles (Oreo/Caramel/Blueberry/Strawberry)   - PHP 110" \
+                    "Pancakes (Plain)                              - PHP 85" \
+                    "Pancakes (Oreo/Caramel/Blueberry/Strawberry)  - PHP 105" \
+                    "French Fries (Regular)                        - PHP 80" \
+                    "French Fries (Cheese/BBQ/Sour Cream)          - PHP 95" \
+                    "Nachos (Regular)                              - PHP 120" \
+                    "Nachos (Premium Cheese & Meat)                - PHP 150" \
                     "Back to Main Menu"
                 
                 SUB_CHOICE=$?
