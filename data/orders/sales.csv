@@ -1,0 +1,14 @@
+Timestamp,OrderID,ItemName,Qty,Total,Cashier
+2026-09-12 08:30:00,ORD-1001,Barley Matcha,2,220,cash_cruz
+2026-09-13 05:11:31,ORD-4907,Vanilla Coffee Frappe,3,390,cash_cruz
+2026-09-13 05:11:31,ORD-4907,Nachos,3,330,cash_cruz
+2026-09-13 05:20:53,ORD-1175,Fried Chicken Rice Meal,5,750,cash_cruz
+2026-09-13 05:20:53,ORD-1175,French Fries,2,160,cash_cruz
+2026-09-13 05:22:54,ORD-1455,Fried Chicken Rice Meal,5,750,codespace
+2026-09-13 05:22:54,ORD-1455,French Fries,3,240,codespace
+2026-09-13 05:30:05,ORD-8966,Fried Chicken Rice Meal,5,750,cash_cruz
+2026-09-13 05:30:05,ORD-8966,French Fries,3,240,cash_cruz
+2026-09-13 05:58:21,ORD-1397,Fried Chicken Rice Meal,5,750,France (france)
+2026-09-13 05:58:21,ORD-1397,French Fries,3,240,France (france)
+2026-09-13 06:10:40,ORD-7432,Fried Chicken Rice Meal,5,750,codespace
+2026-09-13 06:10:40,ORD-7432,French Fries,3,240,codespace

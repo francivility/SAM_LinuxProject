@@ -1,0 +1,53 @@
+ItemID,ItemName,Category,Price,Stock
+101,Barley Matcha Frappe / Latte,Beverages,125,50
+102,Berry Melon Juice,Beverages,95,50
+103,Cafe Filipino (Black Coffee),Beverages,85,50
+104,Cafe Mocha (Hot/Iced),Beverages,110,50
+105,Caramel Macchiato (Hot/Iced),Beverages,115,50
+106,Caramel Macchiato Frappe,Beverages,130,50
+107,Caramel Milk Tea,Beverages,100,50
+108,Cheesecake Milk Tea,Beverages,110,50
+109,Chocolate Matcha Latte,Beverages,120,50
+110,Cookies N Cream Frappe,Beverages,130,50
+111,Green Apple Kiwi Juice,Beverages,95,50
+112,Grainsmart Rice Coffee,Beverages,75,50
+113,Honey Peach Mango Juice,Beverages,95,50
+114,Hot Choco / Iced Choco,Beverages,90,50
+115,Iced Cafe Caramel,Beverages,110,50
+116,Iced Cafe Latte,Beverages,105,50
+117,Iced Coffee,Beverages,85,50
+118,Java Chip Frappe,Beverages,135,50
+119,Mango Matcha Latte,Beverages,120,50
+120,Matcha Milk Tea,Beverages,105,50
+121,Mocha Frappe,Beverages,130,50
+122,Nectar Juice (Signature Blend),Beverages,100,50
+123,Nutella Milk Tea,Beverages,115,50
+124,Okinawa Milk Tea,Beverages,105,50
+125,Passion Fruit Lychee Juice,Beverages,95,50
+126,Spanish Latte (Hot/Iced),Beverages,115,50
+127,Strawberry Cheesecake Frappe,Beverages,135,50
+128,Strawberry Matcha Latte,Beverages,120,50
+129,Sweet Ube Juice,Beverages,100,50
+130,Taro Frappe,Beverages,125,50
+131,Ube Matcha Latte,Beverages,120,50
+132,Vanilla Coffee Frappe,Beverages,130,50
+201,Black Pearls,Sinkers,20,100
+202,Cream Cheese,Sinkers,25,100
+203,Cheesecake Sinker,Sinkers,25,100
+301,Alcapone Waffle,Meals,95,30
+302,Blueberry Waffle,Meals,95,30
+303,Burger Steak Silog Meal,Meals,145,25
+304,Caramel Waffle,Meals,85,30
+305,Classic Plain Waffle,Meals,70,30
+306,French Fries,Meals,80,34
+307,Fried Chicken Rice Meal,Meals,150,15
+308,Graham Waffle,Meals,90,30
+309,Java Chip Waffle,Meals,95,30
+310,Marshmallow Waffle,Meals,85,30
+311,Matcha Pancakes,Meals,110,25
+312,Nachos,Meals,110,30
+313,Oreo Waffle,Meals,90,30
+314,Red Mung Bean Pancakes,Meals,105,25
+315,Smores Waffle,Meals,95,30
+316,Strawberry Pancakes,Meals,110,25
+317,Strawberry Waffle,Meals,95,30
